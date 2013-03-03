@@ -1,5 +1,32 @@
-<html>
+<?php require_once('header.php'); ?>
 
-testing 1,2,3,4
 
-</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?php require_once('footer.php'); ?>
