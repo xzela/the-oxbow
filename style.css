@@ -88,6 +88,22 @@ nav li a:hover {
 	height: 440px;
 	width: 100%;
 	margin: 20px 0;
+	position: relative;
+}
+
+.hero-image img {
+	position: absolute;
+	top: 20px;
+	left: 80px;
+	z-index: 10;
+}
+
+.hero-image img.active {
+	z-index: 20;
+}
+
+.hero-image img.last-active {
+	z-index: 15;
 }
 
 .three-column {
@@ -125,6 +141,15 @@ nav li a:hover {
 .last {
 	margin: 0 0 0 1%;
 }
+
+.video {
+	display: none;
+}
+
+.active-vid {
+	display: block;
+}
+
 
 .footer {
 	clear: both;

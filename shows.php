@@ -1,7 +1,12 @@
 <?php require_once('header.php'); ?>
 
 <div class="hero-image">
-
+	<img src="http://theoxbow.com/slide2/1.jpg" alt="" class="active"/>
+	<img src="http://theoxbow.com/slide2/2.jpg" alt="" />
+	<img src="http://theoxbow.com/slide2/3.jpg" alt="" />
+	<img src="http://theoxbow.com/slide2/4.jpg" alt="" />
+	<img src="http://theoxbow.com/slide2/5.jpg" alt="" />
+	<img src="http://theoxbow.com/slide2/6.jpg" alt="" />
 </div>
 
 

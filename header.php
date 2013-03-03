@@ -3,6 +3,7 @@
 <head>
 	<title>OXBOW</title>
 	<link href="style.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="mediaelementplayer.css" />
 </head>
 <body>
 	<div class="container">
