@@ -1,3 +1,5 @@
+
+// rotating slides
 function slideSwitch() {
 	var $active = $('.hero-image img.active');
 
@@ -18,6 +20,16 @@ $(function() {
 	setInterval("slideSwitch()", 4000);
 });
 
+
+// 'more' links
+$('a.more').click(function() {
+	event.preventDefault();
+	$('.more').css("visibility", "hidden");
+	$('.aux').slideDown('slow');
+});
+
+
+// videos on media page
 $('a.vidlink').click(function() {
 	event.preventDefault();
 	$('.active-vid').removeClass('active-vid');
@@ -26,6 +38,8 @@ $('a.vidlink').click(function() {
 
 });
 
+
+// gallery on media page
 $(document).ready(function() {
 	$(".fancybox").fancybox({
 		openEffect	: 'none',
