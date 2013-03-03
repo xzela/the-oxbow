@@ -1,11 +1,13 @@
+<?php require_once('functions.php'); ?>
 <html>
 <head>
 	<title>OXBOW</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 	<div class="container">
 		<header>
-			<a href="" class="logo">OXBOW</a>
+			<h1><a href="index.php" class="logo">OXBOW</a></h1>
 			<nav>
 				<ul>
 					<li><a href="shows.php">shows</a></li>
@@ -14,6 +16,6 @@
 					<li><a href="media.php">media</a></li>
 					<li><a href="space.php">space</a></li>
 					<li><a href="contact.php">contact</a></li>
-					<li><a href="">store</a></li>
+					<li><a href="http://www.bluecollardistro.com/hydrahead/categories.php?cPath=4_521_575" target="_">store</a></li>
 			</nav>	
 		</header>	
