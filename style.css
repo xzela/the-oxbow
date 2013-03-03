@@ -83,7 +83,8 @@ nav li a:hover {
 	color: #c00;
 }
 
-.hero-image {
+.hero-image,
+.media-gallery {
 	background: rgba(34, 34, 34, 0.4);
 	height: 440px;
 	width: 100%;
@@ -107,7 +108,12 @@ nav li a:hover {
 }
 
 .three-column {
-	min-height: 400px;
+	min-height: 350px;
+	width: 100%;
+}
+
+.top-div {
+	margin: 20px 0;
 }
 
 .column-1,
@@ -150,6 +156,38 @@ nav li a:hover {
 	display: block;
 }
 
+.video-listing {
+	float: left;
+	width: 170px;
+}
+
+audio {
+	width: 290px;
+}
+
+.media-gallery {
+	clear: both;
+	margin: 0;
+	padding: 10px;
+	height: 1720px;
+}
+
+.media-gallery a {
+	display: block;
+	height: 160px;
+	width: 160px;
+	float: left;
+	margin: 0 7px 7px 0;
+	text-align: center;
+	background: #222;
+	overflow: hidden;
+}
+
+.media-gallery img {
+	height: 100%;
+	min-width: 100%;
+	width: auto;
+}
 
 .footer {
 	clear: both;

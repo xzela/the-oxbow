@@ -18,9 +18,17 @@ $(function() {
 	setInterval("slideSwitch()", 4000);
 });
 
-function videoSwitch() {
-	$('a[href^="vid"]').click() {
-		$('.video.active').removeClass('active');
+$('a.vidlink').click(function() {
+	event.preventDefault();
+	$('.active-vid').removeClass('active-vid');
+	var video = $(this).attr('data-id')
+	$(video).addClass('active-vid');
 
-	}
-}
+});
+
+$(document).ready(function() {
+	$(".fancybox").fancybox({
+		openEffect	: 'none',
+		closeEffect	: 'none'
+	});
+});
