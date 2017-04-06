@@ -2,9 +2,9 @@
 <html>
 <head>
 	<title>OXBOW</title>
-	<link href="style.css" rel="stylesheet" type="text/css" />
-	<link rel="stylesheet" href="mediaelementplayer.css" />
-	<link rel="stylesheet" href="fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+	<link href="/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="/assets/vender/mediaelementplayer.css" />
+	<link rel="stylesheet" href="/assets/vender/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
 </head>
 <body>
 	<div class="container">
@@ -19,5 +19,5 @@
 					<li><a href="space.php">space</a></li>
 					<li><a href="contact.php">contact</a></li>
 					<li><a href="http://www.bluecollardistro.com/hydrahead/categories.php?cPath=4_521_575" target="_">store</a></li>
-			</nav>	
-		</header>	
+			</nav>
+		</header>
