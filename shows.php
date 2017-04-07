@@ -1,12 +1,12 @@
 <?php require_once('header.php'); ?>
 
 <div class="hero-image">
-	<img src="http://theoxbow.com/slide2/1.jpg" alt="" class="active"/>
-	<img src="http://theoxbow.com/slide2/2.jpg" alt="" />
-	<img src="http://theoxbow.com/slide2/3.jpg" alt="" />
-	<img src="http://theoxbow.com/slide2/4.jpg" alt="" />
-	<img src="http://theoxbow.com/slide2/5.jpg" alt="" />
-	<img src="http://theoxbow.com/slide2/6.jpg" alt="" />
+	<img src="/assets/img/slides/1.jpg" alt="" class="active"/>
+	<img src="/assets/img/slides/2.jpg" alt="" />
+	<img src="/assets/img/slides/3.jpg" alt="" />
+	<img src="/assets/img/slides/4.jpg" alt="" />
+	<img src="/assets/img/slides/5.jpg" alt="" />
+	<img src="/assets/img/slides/6.jpg" alt="" />
 </div>
 
 
@@ -36,21 +36,21 @@
 			<a href="http://theoxbow.com/OXBOW_1995_Tour_Diary_Eugene.pdf" target="_blank">1995 European Tour Diary (Eugene)</a>
 			<br></br>
 			<a href="http://theoxbow.com/OXBOW_1995_Tour_Diary_Niko.pdf" target="_blank">1995 European Tour Diary (Niko)</a>
-		</p>	
+		</p>
 	</div>
 
 	<div class="column-3">
-		<img src="http://www.theoxbow.com/live.jpg" alt="" />
+		<img src="/assets/img/live.jpg" alt="" />
 		<p>
 			<h2>Oxbow are hellbent on clinging to their original vision</h2>
-		</p>	
+		</p>
 		<p>
 			"Live, the San Franciscan band are fronted by a huge body building skin head. And they cause a great deal of discomfort to their audiences' ears. On record they achieve the same end by extremity of dissonant, densely-packed sound... filled with thigh-slapping percussion, orchestral samples."
-		</p>	
+		</p>
 		<p>
-			"Suppose I expected something a lot more uptempo than these blood curdling psychos crawling around on all fours, but I can't say I'm at all disappointed... the guitar feed back and rumbles while someone altogether unwell screetches indecipherable lyrics... dangerous and uncompromising. Oxbow are hellbent on clinging to their original vision. Their aim is true, their trajectory deadly...." 
-		</p>	
-	</div>	
+			"Suppose I expected something a lot more uptempo than these blood curdling psychos crawling around on all fours, but I can't say I'm at all disappointed... the guitar feed back and rumbles while someone altogether unwell screetches indecipherable lyrics... dangerous and uncompromising. Oxbow are hellbent on clinging to their original vision. Their aim is true, their trajectory deadly...."
+		</p>
+	</div>
 
 </div> <!-- /three-column -->
 

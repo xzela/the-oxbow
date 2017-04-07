@@ -2,8 +2,8 @@
 <html>
 <head>
 	<title>OXBOW</title>
-	<link href="/assets/css/style.css" rel="stylesheet" type="text/css" />
-	<link rel="stylesheet" href="/assets/vender/mediaelementplayer.css" />
+	<link href="/assets/css/main.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="/assets/vender/mediaelement/mediaelementplayer.css" />
 	<link rel="stylesheet" href="/assets/vender/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
 </head>
 <body>
