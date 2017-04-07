@@ -4,4 +4,4 @@
 <script src="/assets/vender/mediaelement/mediaelement-and-player.min.js"></script>
 <script src="/assets/vender/fancybox/jquery.fancybox.pack.js"></script>
 <script src="/assets/vender/slick/slick.min.js"></script>
-<script src="oxbow.js"></script>
+<script src="assets/js/js.js"></script>
