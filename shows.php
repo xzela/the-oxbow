@@ -1,12 +1,24 @@
 <?php require_once('header.php'); ?>
 
 <div class="hero-image">
-	<img src="/assets/img/slides/1.jpg" alt="" class="active"/>
-	<img src="/assets/img/slides/2.jpg" alt="" />
-	<img src="/assets/img/slides/3.jpg" alt="" />
-	<img src="/assets/img/slides/4.jpg" alt="" />
-	<img src="/assets/img/slides/5.jpg" alt="" />
-	<img src="/assets/img/slides/6.jpg" alt="" />
+	<div class="wrapper">
+		<img src="/assets/img/slides/1.jpg" alt="" />
+	</div>
+	<div>
+		<img src="/assets/img/slides/2.jpg" alt="" />
+	</div>
+	<div>
+		<img src="/assets/img/slides/3.jpg" alt="" />
+	</div>
+	<div>
+		<img src="/assets/img/slides/4.jpg" alt="" />
+	</div>
+	<div>
+		<img src="/assets/img/slides/5.jpg" alt="" />
+	</div>
+	<div>
+		<img src="/assets/img/slides/6.jpg" alt="" />
+	</div>
 </div>
 
 

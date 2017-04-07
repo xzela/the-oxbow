@@ -1,25 +1,19 @@
+'use strict';
 
-// rotating slides
-function slideSwitch() {
-	var $active = $('.hero-image img.active');
-
-	if ( $active.length == 0 ) $active = $('.hero-image img:last');
-
-	var $next = $active.next().length ? $active.next() : $('.hero-image img:first');
-
-	$active.addClass('last-active');
-
-	$next.css( {opacity: 0.0} )
-		.addClass('active')
-		.animate( {opacity: 1.0}, 1000, function() {
-			$active.removeClass('active last-active');
-		});
-}
-
-$(function() {
-	setInterval("slideSwitch()", 4000);
+$(document).ready(function() {
+	// carousel
+	$('.hero-image').slick({
+		autoplay: true,
+		autoplaySpeed: 3000,
+		arrows: false,
+		centerMode: true,
+		dots: true,
+		infinite: true,
+		speed: 500,
+		fade: true,
+		cssEase: 'linear'
+	});
 });
-
 
 // 'more' links
 $('a.more').click(function() {

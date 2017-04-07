@@ -93,19 +93,10 @@ nav li a:hover {
 	text-align: center;
 }
 
-.hero-image img {
-	position: absolute;
-	top: 20px;
-	left: 80px;
+.hero-image .wrapper img {
+	margin: 0 auto;
+	margin-top: 20px;
 	z-index: 10;
-}
-
-.hero-image img.active {
-	z-index: 20;
-}
-
-.hero-image img.last-active {
-	z-index: 15;
 }
 
 .three-column {
