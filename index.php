@@ -14,13 +14,57 @@
 
 			<div class="column-1">
 				<h2>Tour Dates</h2>
-				<br />
-				2-10-12: The Union Chapel, London, UK - <a href="http://www.seetickets.com/Event/OXBOW-ORCHESTRA/Union-Chapel/660231">buy tix</a><br><br>23-10-12: Point Ephemere, Paris, France<br><br>24-10-12: VK, Brussels, Belgium<br><br>30-11-12: ATP Festival w/ Shellac, Neurosis, Mono, Camber Sands, UK<br><br>08-09-11: Hopscotch Music Festival, Raleigh NC - <a href="http://hopscotchmusicfest.com/tickets/">buy tix</a><br><br>09/09/11: Machines with Magnets, Pawtucket RI w/Tinsel Teeth<br><br>10-09-11: Europa, Brooklyn NY w/ Weedeater, Bison b.c., Fight Amp - <a href="http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=3820115">buy tix</a>
-				<br /><br />
-				<a href="" class="more">more...</a>
-				<div class="aux">
-					11-09-11: The Barbary, Philadelphia PA w/Rosetta<br><br><br>EUROPEAN TOUR / SPRING 2011: <br><br>20-05-2011: Centrostabile, Vicenza, Italy<br><br>21-05-2011: Stadtwerkstatt, Linz, Austria<br><br>22-05-2011: Arena, Vienna, Austria<br><br>23-05-2011: Postgarage, Graz, Austria<br><br>24-05-2011: Veneklasen Werner Gallery, Berlin, Germany<br><br>25-05-2011: Katakumba, Stargard Szczecinski, Poland<br><br>26-05-2011: Aeronef, Lille, France<br><br>27-05-2011: Epicerie Monderne, Lyon, France28-05-2011: VIP, St. Nazaire, France<br><br>29-05-2011: Vilette Sonique Festival, Paris, France<br><br>30-05-2011: Heretic, Bordeaux, France<br><br>31-05-2011: La Route Du Son, Pau, France<br><br>01-06-2011: Moby Dick, Madrid, Spain<br><br>03-06-2011: La Nef, Angouleme, France<br><br>04-06-2011: Buffalo Bar, London, UK<br><br>EUROPEAN TOUR / NOVEMBER 2009:<br><br>06-11-09: Salle Ochs, Metz, (Fra)<br>Musiques Volantes Festival<br><br>07-11-09: Sas, Delemont (Swi)<br><br>08-11-09: La Maroquinerie, Paris (Fra) <br>Musiques Volantes Festival<br><br>09-11-09: Engine Rooms, Brighton (Uk)<br><br>10-11-09: Star %26 Garter, Manchester (Uk) <br><br>11-11-09: 7.30PM, The Rainbow Pub, Birmingham (Uk)<br><br>12-11-09: Corsica Studios, London (Uk)<br><br>13-11-09: 4ad, Diksmuide (Bel)<br><br>14-11-09: Barakason, Nantes (Fra)<br><br>15-11-09: Astrolabe, Orleans (Fra)<br><br>16-11-09: Grrrnd Zero, Lyon (Fra)<br><br>17-11-09: Magnolia, Milan (Ita)<br><br>18-11-09: Arci Kroen, Verona (Ita)<br><br>19-11-09: Le Kab, Geneva (Swi)<br><br>20-11-09: Le Grillen, Colmar (Fra)<br><br>21-11-09: Magasin 4, Brussels (Bel)
-				</div>
+				<ul>
+					<li>
+						<a href="https://www.songkick.com/concerts/29004669-sumac-at-futurum-music-bar">Prague, CZ - 2017.04.20</a>
+					</li>
+					<li>
+						Leipzig, DE - 2017.04.21</a>
+					</li>
+					<li>
+						Karlsruhe, DE - 2017.04.22
+					</li>
+					<li>
+						Tilburg, NL - 2017.04.23
+					</li>
+					<li>
+						<a href="https://www.songkick.com/concerts/29001354-sumac-at-magasin-4">Brussels, BE - 2017.04.24</a>
+					</li>
+					<li>
+						<a href="https://www.songkick.com/concerts/28963294-oxbow-at-dome-tufnell-park">London, UK - 2017.04.25</a>
+					</li>
+					<li>
+						<a href="https://www.songkick.com/concerts/29004449-oxbow-at-brudenell-social-club">Leeds, UK - 2017.04.26</a>
+					</li>
+					<li>
+						<a href="https://www.songkick.com/concerts/28979729-oxbow-at-bleach">Brighton, UK - 2017.04.27</a>
+					</li>
+					<li>
+						<a href="https://www.songkick.com/festivals/1741179-otb-fest-nights/id/29004649-otb-fest-nights-2017">Paris, FR - 2017.04.28</a>
+					</li>
+					<li>
+						<a href="https://www.songkick.com/concerts/29004629-sumac-at-la-grange-a-musique">Creil, FR - 2017.04.29</a>
+					</li>
+					<li>Milan, IT - 2017.05.01</li>
+					<li>
+						<a href="https://www.songkick.com/concerts/29004534-sumac-at-bronson">Ravenna, IT - 2017.05.02</a>
+					</li>
+					<li>
+						<a href="https://www.songkick.com/concerts/29004524-sumac-at-le-romandie">Lausanne, CH - 2017.05.03</a>
+					</li>
+					<li>
+						<a href="https://www.songkick.com/concerts/28997899-sumac-at-feierwerk-hansa-39">Munich, DE - 2017.05.04</a>
+					</li>
+					<li>
+						<a href="https://www.songkick.com/concerts/29004494-sumac-at-cassiopeia">Berlin, DE - 2017.05.05</a>
+					</li>
+					<li>
+						<a href="https://www.songkick.com/festivals/1501484-a-colossal-weekend/id/29004519-a-colossal-weekend-2017">Copenhagen, DK - 2017.05.06</a>
+					</li>
+					<li>
+						<a href="https://www.songkick.com/festivals/1252-supersonic/id/29723384-supersonic-festival-2017">Birminham, UK - 2017.06.16</a>
+					</li>
+				</ul>
 			</div>
 
 			<div class="column-1">
@@ -44,13 +88,17 @@
 
 			<div class="column-2">
 				<h2>Featured Media</h2>
-				<img src="http://www.theoxbow.com/narcotic.jpg" alt="The Narcotic Story"/>
+				<div class="album-buy">
+					<a href="https://hydrahead.merchtable.com/" target="_blank">
+						<img src="/assets/img/gold-black-duke_small.jpeg" alt="Thin Black Duke"/>
+					</a>
+				</div>
 				<p>
-					OXBOW's The Narcotic Story is out! The record is a brilliant glass menagerie-like
+					OXBOW's <i>Thin Black Duke</i> is out! The record is a brilliant glass menagerie-like
 					animal that shines in the light. Like a knife.
 				</p>
 				<p>
-					<a href="http://www.bluecollardistro.com/hydrahead/product_info.php?products_id=1681&cPath=4_135&store=" target="_blank">Buy it here</a>
+					<a href="https://hydrahead.merchtable.com/" target="_blank">Buy it here</a>
 				</p>
 				<p>
 					"That OXBOW still rattles me. These are some of the most complex and fearfully well-arranged compositions I've ever heard."

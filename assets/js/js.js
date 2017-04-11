@@ -13,6 +13,11 @@ $(document).ready(function() {
 		fade: true,
 		cssEase: 'linear'
 	});
+	// media pages
+	$(".fancybox").fancybox({
+		openEffect	: 'none',
+		closeEffect	: 'none'
+	});
 });
 
 // 'more' links
@@ -29,14 +34,4 @@ $('a.vidlink').click(function() {
 	$('.active-vid').removeClass('active-vid');
 	var video = $(this).attr('data-id')
 	$(video).addClass('active-vid');
-
-});
-
-
-// gallery on media page
-$(document).ready(function() {
-	$(".fancybox").fancybox({
-		openEffect	: 'none',
-		closeEffect	: 'none'
-	});
 });
