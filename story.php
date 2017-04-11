@@ -7,13 +7,16 @@
 		<?php require_once('snippets/menu.php'); ?>
 		<?php
 			// use sides 4
+			$slides = 4;
 			require_once('snippets/carousel.php');
 		?>
 
 		<div class="three-column">
 
-			<h2>The quiet kill off the country road, the time before the time when everything went wrong, and the last 16 hours of that great love affair - these are the seminal beginnings of oxbow.</h2>
-			<img src="/assets/img/portrait.jpg" alt="" />
+			<h2 class="story-header-2">The quiet kill off the country road, the time before the time when everything went wrong, and the last 16 hours of that great love affair - these are the seminal beginnings of oxbow.</h2>
+			<div class="portrait-wrapper">
+				<img src="/assets/img/portrait.jpg" alt="" />
+			</div>
 			<p>
 				Designed to be the last aural will and testament of failed humanity, OXBOW actually garnered listeners from among the ranks of the fucked, with their 1989 release FUCKFEST (cfy; (and later, pathological)).
 				Followed by KING OF THE JEWS (1991) (cfy), THE BALLS IN THE GREAT MEAT GRINDER COLLECTION (1991) (pathological), LET ME BE A WOMAN (1995) (brinkman/crippled dick hot wax) recorded by the estimable STEVE ALBINI, SERENADE IN RED (SST (1997)/CDHW (1996)) also recorded by ALBINI and GIBBS CHAPMAN (FAITH NO MORE, RED HOUSE PAINTERS), AN EVIL HEAT (2002) (neurot) by GIBBS CHAPMAN, LOVE THAT'S LAST (CD+DVD) (2006) (Hydra Head) by various, and THE NARCOTIC STORY (2007) (Hydra Head) co-produced by JOE CHICCARELLI (THE RACONTEURS, FRANK ZAPPA, ELTON JOHN), and NIKO WENNER, as well as various singles and dance remixes, OXBOW has met with increasing critical acclaim and popular support.

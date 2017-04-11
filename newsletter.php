@@ -7,6 +7,7 @@
 		<?php require_once('snippets/menu.php'); ?>
 		<?php
 			// use slides 3
+			$slides = 3;
 			require_once('snippets/carousel.php');
 		?>
 

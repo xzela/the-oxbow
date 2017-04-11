@@ -6,7 +6,8 @@
 	<div class="container">
 		<?php require_once('snippets/menu.php'); ?>
 		<?php
-			// use slides 3
+			// use slides 2
+			$slides = 2;
 			require_once('snippets/carousel.php');
 		?>
 

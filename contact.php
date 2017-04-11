@@ -7,6 +7,7 @@
 		<?php require_once('snippets/menu.php'); ?>
 		<?php
 			// use slides 6
+			$slides = 6;
 			require_once('snippets/carousel.php');
 		?>
 		<div class="three-column">
