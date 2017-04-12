@@ -1,7 +1,10 @@
 <?php ?>
-
+<?php // index ?>
 <?php if ($slides == 1): ?>
 <div class="hero-image">
+	<div class="wrapper">
+		<img src="/assets/img/hero/band_hero_01.jpg" alt="" />
+	</div>
 	<div class="wrapper">
 		<img src="/assets/img/slides/slides01/1.jpg" alt="" />
 	</div>
@@ -29,6 +32,7 @@
 </div>
 <?php endif; ?>
 
+<?php // shows ?>
 <?php if ($slides == 2): ?>
 <div class="hero-image">
 	<div class="wrapper">
@@ -52,6 +56,7 @@
 </div>
 <?php endif; ?>
 
+<?php  // newsletter ?>
 <?php if ($slides == 3): ?>
 <div class="hero-image">
 	<div class="wrapper">
@@ -81,6 +86,7 @@
 </div>
 <?php endif; ?>
 
+<?php // story ?>
 <?php if ($slides == 4): ?>
 <div class="hero-image">
 	<div class="wrapper">
@@ -107,6 +113,7 @@
 </div>
 <?php endif; ?>
 
+<?php // space ?>
 <?php if ($slides == 5): ?>
 <div class="hero-image">
 	<div class="wrapper">
@@ -136,6 +143,7 @@
 </div>
 <?php endif; ?>
 
+<?php // contact ?>
 <?php if ($slides == 6): ?>
 <div class="hero-image">
 	<div class="wrapper">

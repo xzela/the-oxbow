@@ -41,34 +41,34 @@
 				<h2>The press machine</h2>
 				<h3>High-resolution images</h3>
 				<p>
-					<a href="http://theoxbow.com/press/Oxbow_Press_1.tif" target="_blank">Image No. 1</a>
+					<a href="/press/Oxbow_Press_1.tif" target="_blank">Image No. 1</a>
 				</p>
 				<p>
-					<a href="http://theoxbow.com/press/Oxbow_Press_2.tif" target="_blank">Image No. 2</a>
+					<a href="/press/Oxbow_Press_2.tif" target="_blank">Image No. 2</a>
 				</p>
 				<p>
-					<a href="http://theoxbow.com/press/Oxbow_Press_3.tif" target="_blank">Image No. 3</a>
+					<a href="/press/Oxbow_Press_3.tif" target="_blank">Image No. 3</a>
 				</p>
 				<p>
-					<a href="http://theoxbow.com/press/Oxbow_Press_4.tif" target="_blank">Image No. 4</a>
+					<a href="/press/Oxbow_Press_4.tif" target="_blank">Image No. 4</a>
 				</p>
 				<h3>PRESS</h3>
 				<br>
-				<a href="http://theoxbow.com/press/Oxbow_Vice_Interview.jpg" target="_blank">Vice Interview (French)</a><br>
-				<a href="http://theoxbow.com/press/timeout.jpg" target="_blank">TimeOut</a><br>
-				<a href="press/careless.jpg" target="_blank">Careless Talk Costs Lives</a><br>
-				<a href="http://theoxbow.com/press/terrorizer.jpg" target="_blank">Terrorizer</a><br>
-				<a href="press/spex.jpg" target="_blank">Spex (German)</a><br>
-				<a href="http://theoxbow.com/press/raygun.jpg" target="_blank">Raygun</a><br>
-				<a href="press/request.jpg" target="_blank">Request</a><br>
-				<a href="http://theoxbow.com/press/wire.gif" target="_blank">The Wire</a><br>
-				<a href="press/melody.gif" target="_blank">Melody Maker</a><br>
-				<a href="http://theoxbow.com/press/morris.gif" target="_blank">Peter Morris</a><br>
-				<a href="press/musik.gif" target="_blank">Musik (German)</a><br>
-				<a href="http://theoxbow.com/press/sitzler.gif" target="_blank">Susan Sitzler (German)</a><br>
-				<a href="press/flipside.gif" target="_blank">Flipside </a><br>
-				<a href="http://theoxbow.com/press/melanie_schmidt.gif" target="_blank">Melanie Schmidt (German)</a><br>
-				<a href="press/markus_naegele.gif" target="_blank">Markus Naegele (German)</a><br>
+				<a href="/press/Oxbow_Vice_Interview.jpg" target="_blank">Vice Interview (French)</a><br>
+				<a href="/press/timeout.jpg" target="_blank">TimeOut</a><br>
+				<a href="/press/careless.jpg" target="_blank">Careless Talk Costs Lives</a><br>
+				<a href="/press/terrorizer.jpg" target="_blank">Terrorizer</a><br>
+				<a href="/press/spex.jpg" target="_blank">Spex (German)</a><br>
+				<a href="/press/raygun.jpg" target="_blank">Raygun</a><br>
+				<a href="/press/request.jpg" target="_blank">Request</a><br>
+				<a href="/press/wire.gif" target="_blank">The Wire</a><br>
+				<a href="/press/melody.gif" target="_blank">Melody Maker</a><br>
+				<a href="/press/morris.gif" target="_blank">Peter Morris</a><br>
+				<a href="/press/musik.gif" target="_blank">Musik (German)</a><br>
+				<a href="/press/sitzler.gif" target="_blank">Susan Sitzler (German)</a><br>
+				<a href="/press/flipside.gif" target="_blank">Flipside </a><br>
+				<a href="/press/melanie_schmidt.gif" target="_blank">Melanie Schmidt (German)</a><br>
+				<a href="/press/markus_naegele.gif" target="_blank">Markus Naegele (German)</a><br>
 			</div>
 
 			<div class="column-2">
