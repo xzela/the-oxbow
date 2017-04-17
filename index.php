@@ -71,10 +71,14 @@
 			<div class="column-1">
 				<h2>News</h2>
 				<p>
+					There is nothing new under the sun and all is vanity and vexation of spirit. 
+					HOWEVER, if you're simply interested in what OXBOW is doing, sadly, you'll have to go <a href="https://www.facebook.com/OXBOW/">HERE</a> to find out.
+				</p>
+				<p>
 					New images from the November 2009 tour have been posted in the Media section. Enjoy.
 				</p>
 				<p>
-					Complete newsletter and tour diary archives now online - click on the <a href="newsletter.php">NEWSLETTER</a> or <a href="shows.php">SHOWS</a> menu buttons above to access the respective archive. Enjoy.
+					Complete newsletter and tour diary archives now online - click on the <a href="/newsletter.php">NEWSLETTER</a> or <a href="/shows.php">SHOWS</a> menu buttons above to access the respective archive. Enjoy.
 				</p>
 				<p>
 					See live concert video from the Amsterdam <a href="http://www.fabchannel.com/oxbow" target="_blank">Paradiso Show</a> on June 11, brought to you by the good people at Fabchannel.

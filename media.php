@@ -11,7 +11,9 @@
 		?>
 
 			<div class="three-column top-div">
-
+				<div class="portrait-wrapper">
+					
+				</div>
 				<div class="column-2">
 					<h3>Sample Tracks</h3>
 					<p>
@@ -34,6 +36,9 @@
 						Let Me Be a Woman - Sunday<br />
 						<audio controls="control" preload="none" src="/assets/media/audio/Sunday.mp3" type="audio/mp3">
 					</p>
+					<h3>
+						Hear more on our <a href="https://oxbowofficial.bandcamp.com/">official oxbow bandcamp</a> page
+					</h3>
 				</div>
 
 				<div class="column-3">

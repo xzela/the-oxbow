@@ -36,8 +36,9 @@
 				</p>
 				<p>
 					<a href="http://www.hydrahead.com/" target="_blank">HydraHead</a><br />
-					P.O. Box 291430<br />
-					San Francisco, CA 90029
+					<a href="mailto:paypal@hydrahead.com">paypal@hydrahead.com</a><br />
+					P.O. Box 1706<br />
+					Vashon, WA 98070
 				</p>
 				<p>
 					<h3>Booking</h3>
@@ -50,7 +51,7 @@
 				<p>
 					Erik Jarvis: 828-682-4989<br>
 					Troy Richardson: 785-830-9606<br>
-					erik@tonedeaftouring.com
+					<a href=mailto:erik@tonedeaftouring.com>erik@tonedeaftouring.com</a>
 				</p>
 			</div>
 

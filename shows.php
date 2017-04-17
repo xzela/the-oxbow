@@ -16,6 +16,14 @@
 			<div class="column-2">
 				<h3>Tour Diaries</h3>
 				<p>
+					NOTE: Show diaries were killed back in 2003. 
+					Despite a valiant effort to save them. 
+					They may reappear in the future. 
+					However, if OXBOW narrative is of interest to you? 
+					Please try to get your hands on the very limited edition of our THIN BLACK BOOK. 
+					Available, at this point, only at live shows.
+				</p>
+				<p>
 					<a href="http://theoxbow.com/OXBOW_2003_2nd_European_Tour_Diary.pdf" target="_blank">2003 Second European Tour Diary</a>
 					<br></br>
 					<a href="http://theoxbow.com/OXBOW_2003_Tour_Diary.pdf" target="_blank">2003 European Tour Diary</a>

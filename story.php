@@ -3,7 +3,7 @@
 	<?php require_once('snippets/header.php'); ?>
 </head>
 <body>
-	<div id="container">
+	<div class="container">
 		<?php require_once('snippets/menu.php'); ?>
 		<?php
 			// use sides 4
