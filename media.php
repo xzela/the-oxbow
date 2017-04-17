@@ -11,9 +11,6 @@
 		?>
 
 			<div class="three-column top-div">
-				<div class="portrait-wrapper">
-					
-				</div>
 				<div class="column-2">
 					<h3>Sample Tracks</h3>
 					<p>

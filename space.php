@@ -16,25 +16,45 @@
 			<div class="column-1">
 				<h2>Walk with Me a While</h2>
 				<h3>Links</h3>
-				<br>
-				<a href="http://www.erowid.org/culture/culture.shtml" target="_blank">Erowid</a>
-				<br></br>
-				<a href="http://www.splatterpromotion.com/" target="_blank">Splatter Promotion</a>
-				<br /></br>
-				<a href="http://www.spr.org/" target="_blank">Stop Prisoner Rape</a>
-				<br></br>
-				<a href="http://www.angermgmt.com/" target="_blank">AngerMgmt</a>
-				<br></br>
-				<a href="http://www.sexaa.org/" target="_blank">Sex Addicts</a><br></br>
-				<a href="http://www.louvre.fr/oeuvre-notices/gudea-prince-de-lagash-statue-assise-dediee-au-dieu-ningishzida" target="_blank">Gudea.jpg Louvre</a><br></br>
-				<a href="http://www.barryrudolph.com/greg/note1.html" target="_blank">Pitch-To-Frequency-To-Wavelength</a><br></br>
-				<a href="http://www.nineup.com/3.0/past/past/oxbow.html" target="_blank">Oxbow live Internet Broadcast, 12/19/98</a>
-				<br></br><a href="http://music.hyperreal.org/artists/brian_eno/oblique/oblique.html" target="_blank">Brian Eno's Oblique Strategy cards</a><br></br>
-				<a href="http://tinyurl.com/2zmq8w" target="_blank">Audio Terms Glossary</a><br></br>
-				<a href="http://www.rane.com/digi-dic.html" target="_blank">Rane Professional Audio Reference</a><br></br>
-				<a href="http://www.tanker.se/lidstrom/riaa.htm" target="_blank">RIAA Curve</a><br></br>
-				<a href="http://www.taschen.com/" target="_blank">TASCHEN</a>
-
+				<ul>
+				
+					<li>
+						<a href="http://www.erowid.org/culture/culture.shtml" target="_blank">Erowid</a>
+					</li>
+					<li>
+						<a href="http://www.splatterpromotion.com/" target="_blank">Splatter Promotion</a>
+					</li>
+					<li>
+						<a href="http://www.spr.org/" target="_blank">Stop Prisoner Rape</a>
+					</li>
+					<li>
+						<a href="http://www.sexaa.org/" target="_blank">Sex Addicts</a>
+					</li>
+					<li>
+						<a href="http://www.louvre.fr/oeuvre-notices/gudea-prince-de-lagash-statue-assise-dediee-au-dieu-ningishzida" target="_blank">Gudea.jpg Louvre</a>
+					</li>
+					<li>
+						<a href="http://www.barryrudolph.com/greg/note1.html" target="_blank">Pitch-To-Frequency-To-Wavelength</a>
+					</li>
+					<li>
+						<a href="http://www.nineup.com/3.0/past/past/oxbow.html" target="_blank">Oxbow live Internet Broadcast, 12/19/98</a>
+					</li>
+					<li>
+						<a href="http://music.hyperreal.org/artists/brian_eno/oblique/oblique.html" target="_blank">Brian Eno's Oblique Strategy cards</a>
+					</li>
+					<li>
+						<a href="http://tinyurl.com/2zmq8w" target="_blank">Audio Terms Glossary</a>
+					</li>
+					<li>
+						<a href="http://www.rane.com/digi-dic.html" target="_blank">Rane Professional Audio Reference</a>
+					</li>
+					<li>
+						<a href="http://www.tanker.se/lidstrom/riaa.htm" target="_blank">RIAA Curve</a>
+					</li>
+					<li>
+						<a href="http://www.taschen.com/" target="_blank">TASCHEN</a>
+					</li>
+				</ul>
 			</div>
 
 			<div class="column-1">
@@ -53,6 +73,7 @@
 					<a href="/press/Oxbow_Press_4.tif" target="_blank">Image No. 4</a>
 				</p>
 				<h3>PRESS</h3>
+				
 				<br>
 				<a href="/press/Oxbow_Vice_Interview.jpg" target="_blank">Vice Interview (French)</a><br>
 				<a href="/press/timeout.jpg" target="_blank">TimeOut</a><br>
