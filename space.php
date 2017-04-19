@@ -59,7 +59,7 @@
 			<div class="column-1">
 				<h2>The press machine</h2>
 				<h3>High-resolution images</h3>
-				<ul>
+				<ul class="external-links">
 					<li>
 						<a href="/press/Oxbow_Press_1.tif" target="_blank">Image No. 1</a>
 					</li>
@@ -74,8 +74,26 @@
 					</li>
 				</ul>
 
-				<h3>Printed Pres</h3>
+				<h3>Printed Press</h3>
 				<ul class="external-links">
+					<li>
+						<strong>NEW!</strong> <a href="/press/LouderThanWar_review_April_2017.jpg">Louder Than War</a>
+					</li>
+					<li>
+						<strong>NEW!</strong> <a href="/press/NewNoise_review_April_2017.jpg">New Noise</a>
+					</li>
+					<li>
+						<strong>NEW!</strong> <a href="/press/Musikexpress_review_01_May_2017.png">Musikexpress (German) Part 1</a>
+					</li>
+					<li>
+						<strong>NEW!</strong> <a href="/press/Musikexpress_review_02_May_2017.png">Musikexpress (German) Part 2</a>
+					</li>
+					<li>
+						<strong>NEW!</strong> <a href="/press/TheWire_review_01_May_2017.pdf">The Wire Part 1</a>
+					</li>
+					<li>
+						<strong>NEW!</strong> <a href="/press/TheWire_review_02_May_2017.pdf">The Wire Part 2</a>
+					</li>
 					<li>
 						<a href="/press/Oxbow_Vice_Interview.jpg" target="_blank">Vice Interview (French)</a>
 					</li>
@@ -174,89 +192,89 @@
 				<h2>UK ONLINE/RADIO</h2>
 				<ul class="external-links">
 					<li>
-						<a href="" target="_" >BBC 6 MUSIC - Mary Ann Hobbs recommends, radio play of "Other People" (19 April)</a>
+						<a href="http://www.bbc.co.uk/6music" target="_" >BBC 6 MUSIC</a> - Mary Ann Hobbs recommends, radio play of "Other People" (19 April)
 					</li>
 					<li>
-						<a href="http://post-trash.com/news/2017/4/6/fuzzy-meadows-the-weeks-best-new-music-march-13th-april-2nd" target="_" >POST-TRASH - "Fuzzy Meadows: Top 5 Songs" (6 April)</a> 
+						<a href="http://post-trash.com/news/2017/4/6/fuzzy-meadows-the-weeks-best-new-music-march-13th-april-2nd" target="_" >POST-TRASH</a> - "Fuzzy Meadows: Top 5 Songs" (6 April)
 						<p>
 							"Oxbow remain undefinable and exceedingly unpredictable. "Cold & Well-Lit Place" is layered with horns, strings, sludge, and a beautiful intensity. It's Oxbow as you haven't heard them and it's also the Oxbow you know and love." - Dan Goldin
 						</p>
 					</li>
 					<li>
-						<a href="https://newriverstudios.com/199radio/" target="_" >NEW RIVER STUDIOS - radio interview with Chris Purdie, Oxbow mention (11 April)</a>
+						<a href="https://newriverstudios.com/199radio/" target="_" >NEW RIVER STUDIOS</a> - radio interview with Chris Purdie, Oxbow mention (11 April)
 					</li>
 					<li>
-						<a href="http://screamingguitars.com/oxbow-other-people/" target="_" >SCREAMING GUITARS - Video news (4 April)</a>
+						<a href="http://screamingguitars.com/oxbow-other-people/" target="_" >SCREAMING GUITARS</a> - Video news (4 April)
 					</li>
 					<li>
-						<a href="http://circuitsweet.co.uk/2017/04/oxbow-share-video-for-new-song-other-people/" target="_" >CIRCUIT SWEET - Video news (5 April)</a>
+						<a href="http://circuitsweet.co.uk/2017/04/oxbow-share-video-for-new-song-other-people/" target="_" >CIRCUIT SWEET</a> - Video news (5 April)
 					</li>
 					<li>
-						<a href="http://www.destroyexist.com/2017/04/oxbow-other-people.html" target="_" >DESTROY EXIST - Video news (5 April)</a>
+						<a href="http://www.destroyexist.com/2017/04/oxbow-other-people.html" target="_" >DESTROY EXIST</a> - Video news (5 April)
 					</li>
 					<li>
-						<a href="http://musicandriots.com/oxbow-share-video-for-new-song-other-people/" target="_" >MUSIC & RIOTS - Video news (5 April)</a>
+						<a href="http://musicandriots.com/oxbow-share-video-for-new-song-other-people/" target="_" >MUSIC & RIOTS</a> - Video news (5 April)
 					</li>
 					<li>
-						<a href="https://soundblab.com/videos/17748-oxbow-other-people" target="_" >SOUNDBLAB - Video news (5 April)</a>
+						<a href="https://soundblab.com/videos/17748-oxbow-other-people" target="_" >SOUNDBLAB</a> - Video news (5 April)
 					</li>
 					<li>
-						<a href="http://www.punktastic.com/news/oxbow-announce-first-new-album-in-a-decade-thin-black-duke/" target="_" >PUNKTASTIC - Album and video, UK live dates news (5 April)</a>
+						<a href="http://www.punktastic.com/news/oxbow-announce-first-new-album-in-a-decade-thin-black-duke/" target="_" >PUNKTASTIC</a> - Album and video, UK live dates news (5 April)
 					</li>
 					<li>
-						<a href="https://www.bbc.co.uk/music/artists/77ce400e-ec88-49d6-b5df-14356ec708dc" target="_" >BBC RADIO 1 - UK Live Dates Listings - (March)</a>
+						<a href="https://www.bbc.co.uk/music/artists/77ce400e-ec88-49d6-b5df-14356ec708dc" target="_" >BBC RADIO 1</a> - UK Live Dates Listings - (March)
 					</li>
 					<li>
-						<a href="http://www.bbc.co.uk/programmes/b08k185j" target="_" >BBC RADIO 1 - Daniel P Carter Rock Show play (27 March)</a>
+						<a href="http://www.bbc.co.uk/programmes/b08k185j" target="_" >BBC RADIO 1</a> - Daniel P Carter Rock Show play (27 March)
 					</li>
 					<li>
-						<a href="http://thequietus.com/articles/21978-new-oxbow-video" target="_" >THE QUIETUS - Video Premiere (14 March)</a>
+						<a href="http://thequietus.com/articles/21978-new-oxbow-video" target="_" >THE QUIETUS</a> - Video Premiere (14 March)
 					</li>
 					<li>
-						<a href="http://www.destroyexist.com/2017/03/oxbow-cold-well-lit-plac.html" target="_" >DESTROY EXIST - Video news (24 March)</a>
+						<a href="http://www.destroyexist.com/2017/03/oxbow-cold-well-lit-plac.html" target="_" >DESTROY EXIST</a> - Video news (24 March)
 					</li>
 					<li>
-						<a href="https://soundblab.com/videos/17606-oxbow-cold-well-lit-place" target="_" >SOUNDBLAB - Video news (22 March)</a>
+						<a href="https://soundblab.com/videos/17606-oxbow-cold-well-lit-place" target="_" >SOUNDBLAB</a> - Video news (22 March)
 					</li>
 					<li>
-						<a href="https://soundblab.com/videos/17606-oxbow-cold-well-lit-place" target="_" >MUSIC AND RIOTS - Video news (16 March)</a>
+						<a href="https://soundblab.com/videos/17606-oxbow-cold-well-lit-place" target="_" >MUSIC AND RIOTS</a> - Video news (16 March)
 					</li>
 					<li>
-						<a href="http://www.withguitars.com/oxbow-share-video-cold-well-lit-place/" target="_" >WITH GUITARS - Video news (15 March)</a>
+						<a href="http://www.withguitars.com/oxbow-share-video-cold-well-lit-place/" target="_" >WITH GUITARS</a> - Video news (15 March)
 					</li>
 					<li>
-						<a href="http://screamingguitars.com/go-to-a-cold-and-well-lit-place-with-oxbow/" target="_" >SCREAMING GUITARS - Video news (15 March)</a>
+						<a href="http://screamingguitars.com/go-to-a-cold-and-well-lit-place-with-oxbow/" target="_" >SCREAMING GUITARS</a> - Video news (15 March)
 					</li>
 					<li>
-						<a href="http://www.destroyexist.com/2017/03/oxbow-cold-well-lit-plac.html" target="_" >DESTROY EXIST - Album and video news (24 March)</a>
+						<a href="http://www.destroyexist.com/2017/03/oxbow-cold-well-lit-plac.html" target="_" >DESTROY EXIST</a> - Album and video news (24 March)
 					</li>
 					<li>
-						<a href="http://circuitsweet.co.uk/2017/03/oxbow-share-video-for-cold-well-lit-place/" target="_" >CIRCUIT SWEET - Video news (18 March)</a>
+						<a href="http://circuitsweet.co.uk/2017/03/oxbow-share-video-for-cold-well-lit-place/" target="_" >CIRCUIT SWEET</a> - Video news (18 March)
 					</li>
 					<li>
-						<a href="https://auralaggravation.com/tag/thin-black-duke/" target="_" >AURAL AGGRAVATION - Album and video news (16 March)</a>
+						<a href="https://auralaggravation.com/tag/thin-black-duke/" target="_" >AURAL AGGRAVATION</a> - Album and video news (16 March)
 					</li>
 					<li>
-						<a href="http://thequietus.com/articles/21864-oxbow-new-album" target="_" >THE QUIETUS - Album news (23 Feb) </a>
+						<a href="http://thequietus.com/articles/21864-oxbow-new-album" target="_" >THE QUIETUS</a> - Album news (23 Feb) 
 					</li>
 					<li>
-						<a href="http://screamingguitars.com/go-to-a-cold-and-well-lit-place-with-oxbow/" target="_" >SCREAMING GUITARS - Album news (24 Feb)</a>
+						<a href="http://screamingguitars.com/go-to-a-cold-and-well-lit-place-with-oxbow/" target="_" >SCREAMING GUITARS</a> - Album news (24 Feb)
 					</li>
 					<li>
-						<a href="http://sonicshocks.tumblr.com/post/157613725508/oxbow-reveal-new-album-on-hydra-head" target="_" >SONIC SHOCKS - Album news (24 Feb)</a>
+						<a href="http://sonicshocks.tumblr.com/post/157613725508/oxbow-reveal-new-album-on-hydra-head" target="_" >SONIC SHOCKS</a> - Album news (24 Feb)
 					</li>
 					<li>
-						<a href="http://musicandriots.com/oxbow-to-release-thin-black-duke-their-first-album-in-10-years/" target="_" >MUSIC AND RIOTS - Album news (31 Feb)</a>
+						<a href="http://musicandriots.com/oxbow-to-release-thin-black-duke-their-first-album-in-10-years/" target="_" >MUSIC AND RIOTS</a> - Album news (31 Feb)
 					</li>
 					<li>
-						<a href="http://circuitsweet.co.uk/2017/02/oxbow-to-release-thin-black-duke-via-hydra-head-5th-may/" target="_" >CIRCUIT SWEET - Album news (26 Feb)</a>
+						<a href="http://circuitsweet.co.uk/2017/02/oxbow-to-release-thin-black-duke-via-hydra-head-5th-may/" target="_" >CIRCUIT SWEET</a> - Album news (26 Feb)
 					</li>
 					<li>
-						<a href="http://www.ghostcultmag.com/most-anticipated-2017-mastodon-enslaved-tool-sleep-soad/" target="_" >GHOST CULT - Anticipated albums of 2017 (30 Dec)</a>
+						<a href="http://www.ghostcultmag.com/most-anticipated-2017-mastodon-enslaved-tool-sleep-soad/" target="_" >GHOST CULT</a> - Anticipated albums of 2017 (30 Dec)
 					</li>
 				</ul>
 			</div>
-			<div class="column-2">
+			<div class="column-1">
 				<h2>Confirmed Wider European</h2>
 				<h3>European reviews</h3>
 				<ul class="external-links">
@@ -264,13 +282,13 @@
 						NEW NOISE (FRANCE) - Feature (issue date tbc)
 					</li>
 					<li>
-						<a href="http://www.noisemag.net/nouvelle-video-pour-oxbow-2/" target="_">NEW NOISE (FRANCE) - review (April/May issue)</a>
+						<a href="http://www.noisemag.net/nouvelle-video-pour-oxbow-2/" target="_">NEW NOISE (FRANCE)</a> - review (April/May issue)
 					</li>
 					<li>
-						<a href="https://noisey.vice.com/fr" target="_">NOISEY (FRANCE) - Interview online (date tbc)</a>
+						<a href="https://noisey.vice.com/fr" target="_">NOISEY (FRANCE)</a> - Interview online (date tbc)
 					</li>
 					<li>
-						<a href="http://www.ox-fanzine.de/" target="_">OX FANZINE (GERMANY) - review (Summer issue)</a>
+						<a href="http://www.ox-fanzine.de/" target="_">OX FANZINE (GERMANY)</a> - review (Summer issue)
 					</li>
 					<li>
 						MUSIKEXPRESS (GERMANY) - 4.5 star review (April/May issue)
@@ -285,95 +303,127 @@
 						GONZO (BENELUX) - review (date tbc)
 					</li>
 					<li>
-						<a href="https://www.coreandco.fr/news/oxbow-sort-sa-video-pour-other-people-28912.html" target="_" >CORE AND CO (FRANCE) - review (5 April) </a>
+						<a href="https://www.coreandco.fr/news/oxbow-sort-sa-video-pour-other-people-28912.html" target="_" >CORE AND CO (FRANCE)</a> - review (5 April) 
 					</li>
 					<li>
-						<a href="http://www.saladdaysmag.com/oxbow-thin-black-duke/" target="_" >SALAD DAYS - review (31 April) 10/10 perfect score!!! </a>
+						<a href="http://www.saladdaysmag.com/oxbow-thin-black-duke/" target="_" >SALAD DAYS</a> - review (31 April) 10/10 perfect score!!! 
 					</li>
 					<li>
-						<a href="http://www.ilcibicida.com/news/oxbow-other-people-video/" target="_" >IL CIBICIDA - Video news (5 April)</a>
+						<a href="http://www.ilcibicida.com/news/oxbow-other-people-video/" target="_" >IL CIBICIDA</a> - Video news (5 April)
 					</li>
 					<li>
-						<a href="" target="_" >STADTFILTER (SWITZERLAND) - "Other People" & "Cold & Well-Lit Place" on playlist (April)</a>
+						<a href="" target="_" >STADTFILTER (SWITZERLAND)</a> - "Other People" & "Cold & Well-Lit Place" on playlist (April)
 					</li>
 					<li>
-						<a href="" target="_" >RADIO SLOVENIA - radio play (date tbc)</a>
+						<a href="" target="_" >RADIO SLOVENIA</a> - radio play (date tbc)
 					</li>
 					<li>
-						<a href="http://metalanddom.eu/" target="_" >METALANDDOM.EU - radio play (date tbc)</a>
+						<a href="http://metalanddom.eu/" target="_" >METALANDDOM.EU</a> - radio play (date tbc)
 					</li>
 					<li>
-						<a href="http://www.musicaddiction.it/news/latest-news/oxbow-other-people/" target="_" >MUSIC ADDICTION (ITALY) Video news (5 April)</a>
+						<a href="http://www.musicaddiction.it/news/latest-news/oxbow-other-people/" target="_" >MUSIC ADDICTION (ITALY)</a> Video news (5 April)
 					</li>
 					<li>
-						<a href="http://www.metalorgie.com/news/125559_Nouveau-clip-pour-Oxbow-avec-Other-People-Thin-Black-Duke-sort-le-5-mai-sur-Hydra-Head" target="_" >METAL ORGIE (FRANCE) Video news (5 April)</a>
+						<a href="http://www.metalorgie.com/news/125559_Nouveau-clip-pour-Oxbow-avec-Other-People-Thin-Black-Duke-sort-le-5-mai-sur-Hydra-Head" target="_" >METAL ORGIE (FRANCE)</a> Video news (5 April)
 					</li>
 					<li>
-						<a href="http://www.silence-is-sexy.com/" target="_" >SILENCE IS SEXY (FRANCE) - review (tbc)</a>
+						<a href="http://www.silence-is-sexy.com/" target="_" >SILENCE IS SEXY (FRANCE)</a> - review (tbc)
 					</li>
 					<li>
-						<a href="http://www.alternativnews.com/2017/03/oxbow-nouvel-album-nouveau-single.html" target="_" >ALTERNATIVE NEWS (FRANCE) -  Video news (19 March)</a>
+						<a href="http://www.alternativnews.com/2017/03/oxbow-nouvel-album-nouveau-single.html" target="_" >ALTERNATIVE NEWS (FRANCE)</a> -  Video news (19 March)
 					</li>
 					<li>
-						<a href="https://mail.google.com/mail/u/0/?zx=4kcp3hss7w3y#inbox/15b6d9a935dc545f" target="_" >RUMORE MAG (ITALY) - Album and video news (14 March)</a>
+						<a href="https://mail.google.com/mail/u/0/?zx=4kcp3hss7w3y#inbox/15b6d9a935dc545f" target="_" >RUMORE MAG (ITALY)</a> - Album and video news (14 March)
 					</li>
 					<li>
-						<a href="http://sentireascoltare.com/rubriche/flow-025-discover-yourself-with-roller-skating/" target="_" >SENTIRE ASCOLTARE (ITALY) - Album mention in round up (17 March)</a>
+						<a href="http://sentireascoltare.com/rubriche/flow-025-discover-yourself-with-roller-skating/" target="_" >SENTIRE ASCOLTARE (ITALY)</a> - Album mention in round up (17 March)
 					</li>
 					<li>
-						<a href="http://www.silver-rocket.org/news/3784" target="_" >SILVER ROCKET (CZECH) - Video news (16 March)</a>
+						<a href="http://www.silver-rocket.org/news/3784" target="_" >SILVER ROCKET (CZECH)</a> - Video news (16 March)
 					</li>
 					<li>
-						<a href="http://www.rocklab.it/2017/03/15/oxbow-guarda-cold-well-lit-place/" target="_" >ROCK LAB (ITALY) -  Video news (15 March)</a>
+						<a href="http://www.rocklab.it/2017/03/15/oxbow-guarda-cold-well-lit-place/" target="_" >ROCK LAB (ITALY)</a> -  Video news (15 March)
 					</li>
 					<li>
-						<a href="http://rockfreaks.net/news/27805" target="_" >ROCK FREAKS (DENMARK) - Video news (15 March)</a>
+						<a href="http://rockfreaks.net/news/27805" target="_" >ROCK FREAKS (DENMARK)</a> - Video news (15 March)
 					</li>
 					<li>
-						<a href="http://www.ilcibicida.com/news/oxbow-cold-and-well-lit-place-video/" target="_" >IL CIBICIDA - Video news (15 March)</a>
+						<a href="http://www.ilcibicida.com/news/oxbow-cold-and-well-lit-place-video/" target="_" >IL CIBICIDA</a> - Video news (15 March)
 					</li>
 					<li>
-						<a href="http://www.goutemesdisques.com/news/article/oxbow-premier-extrait-du-nouvel-album-des-monstres-du-rock-expe/" target="_" >GOUTE MES DISQUES (FRANCE) - Video news (15 March)</a>
+						<a href="http://www.goutemesdisques.com/news/article/oxbow-premier-extrait-du-nouvel-album-des-monstres-du-rock-expe/" target="_" >GOUTE MES DISQUES (FRANCE)</a> - Video news (15 March)
 					</li>
 					<li>
-						<a href="http://www.shootmeagain.com/videos/15449_oxbow" target="_" >SHOOT ME AGAIN (FRANCE) - Video news (15 March)</a>
+						<a href="http://www.shootmeagain.com/videos/15449_oxbow" target="_" >SHOOT ME AGAIN (FRANCE)</a> - Video news (15 March)
 					</li>
 					<li>
-						<a href="http://www.noisemag.net/nouvelle-video-pour-oxbow/" target="_" >NEW NOSIE (FRANCE) - Video news (14 March)</a>
+						<a href="http://www.noisemag.net/nouvelle-video-pour-oxbow/" target="_" >NEW NOSIE (FRANCE)</a> - Video news (14 March)
 					</li>
 					<li>
-						<a href="http://www.impattosonoro.it/2017/03/14/news/oxbow-video-del-brano-cold-well-lit-place/" target="_" >IMPATTO SONORO (ITALY) - Video news (14 March)</a>
+						<a href="http://www.impattosonoro.it/2017/03/14/news/oxbow-video-del-brano-cold-well-lit-place/" target="_" >IMPATTO SONORO (ITALY)</a> - Video news (14 March)
 					</li>
 					<li>
-						<a href="http://www.ondarock.it/news.php?id=5206" target="_" >ONDAROCK (ITALY) - Album news (1 March)</a>
+						<a href="http://www.ondarock.it/news.php?id=5206" target="_" >ONDAROCK (ITALY)</a> - Album news (1 March)
 					</li>
 					<li>
-						<a href="http://www.ilcibicida.com/news/oxbow-a-maggio-il-nuovo-album/" target="_" >IL CIBICIDA - Album news (28 Feb)</a>
+						<a href="http://www.ilcibicida.com/news/oxbow-a-maggio-il-nuovo-album/" target="_" >IL CIBICIDA</a> - Album news (28 Feb)
 					</li>
 					<li>
-						<a href="http://www.rocking.gr/news/oxbow-new-album/29761" target="_" >ROCKING (GREECE) - Album news (24 Feb)</a>
+						<a href="http://www.rocking.gr/news/oxbow-new-album/29761" target="_" >ROCKING (GREECE)</a> - Album news (24 Feb)
 					</li>
 					<li>
-						<a href="http://www.rockfreaks.net/news/27696" target="_" >ROCK FREAKS (DENMARK) - Album news (24 Feb)</a>
+						<a href="http://www.rockfreaks.net/news/27696" target="_" >ROCK FREAKS (DENMARK)</a> - Album news (24 Feb)
 					</li>
 					<li>
-						<a href="http://www.scoreav.com/oxbow-annonce-duc-noir/" target="_" >SCOREAV (FRANCE) - Album news (24 Feb)</a>
+						<a href="http://www.scoreav.com/oxbow-annonce-duc-noir/" target="_" >SCOREAV (FRANCE)</a> - Album news (24 Feb)
 					</li>
 					<li>
-						<a href="http://www.shiverwebzine.com/2017/03/08/album-degli-oxbow-si-intitola-thin-black-duke/" target="_" >SHIVER (ITALY) - Album news (23 Feb)</a>
+						<a href="http://www.shiverwebzine.com/2017/03/08/album-degli-oxbow-si-intitola-thin-black-duke/" target="_" >SHIVER (ITALY)</a> - Album news (23 Feb)
 					</li>
 					<li>
-						<a href="http://www.impattosonoro.it/2017/02/23/news/oxbow-maggio-esce-album-thin-black-duke/" target="_" >IMPATTO SONORO (ITALY) - Album news (23 Feb)</a>
+						<a href="http://www.impattosonoro.it/2017/02/23/news/oxbow-maggio-esce-album-thin-black-duke/" target="_" >IMPATTO SONORO (ITALY)</a> - Album news (23 Feb)
 					</li>
 					<li>
-						<a href="http://sentireascoltare.com/album/oxbow-thin-black-duke/" target="_" >SENTIRE ESCOLTARE (ITALY) - Album news (23 Feb)</a>
+						<a href="http://sentireascoltare.com/album/oxbow-thin-black-duke/" target="_" >SENTIRE ESCOLTARE (ITALY)</a> - Album news (23 Feb)
 					</li>
 					<li>
-						<a href="http://www.indierockmag.com/article28868.html" target="_" >INDIE ROCK MAG (FRANCE) - Album news (23 Feb)</a>
+						<a href="http://www.indierockmag.com/article28868.html" target="_" >INDIE ROCK MAG (FRANCE)</a> - Album news (23 Feb)
 					</li>
 				</ul>
 			</div>
-		</div>
+			<div class="column-2">
+				<h2>UK Print</h2>
+				<ul class="external-links">
+					<li>
+						WIRE - review (May issue) "Intricately structured, both motif and riff-heavy...symphonic and feels strongly narrative."
+					</li>
+					<li>
+						RECORD COLLECTOR - review (May issue)
+					</li>
+					<li>
+						LOUDER THAN WAR - 8/10 review (April/May issue) "Cleverly obtuse as ever."
+					</li>
+					<li>
+						MOJO - review (July issue)
+					</li>
+					<li>
+						METAL HAMMER - SUBTERRANEA COVER FEATURE (June issue)
+					</li>
+					<li>
+						METAL HAMMER - review (June issue)
+					</li>
+					<li>
+						TERRORIZER - FEATURE (May issue)
+					</li>
+					<li>
+						TERRORIZER - review (May issue)
+					</li>
+					<li>
+						NARC (NEWCASTLE) - review (date tbc)
+					</li>
+				</ul>
+			</div>
+		</div> <!-- /three-column -->
 	</div> <!-- /container -->
 	<?php require_once('snippets/footer.php'); ?>
 </body>

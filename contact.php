@@ -14,9 +14,7 @@
 
 			<div class="column-1">
 				<h2>Contact Oxbow</h2>
-				<p>
-					Oxbow
-				</p>
+				<h3>Oxbow</h3>
 				<p>
 					P.O. Box 19271<br>
 					Stanford, CA 94309
@@ -31,18 +29,15 @@
 
 			<div class="column-2">
 				<h2>United States</h2>
-				<p>
-					<h3>Record Label</h3>
-				</p>
+				<h3>Record Label</h3>
 				<p>
 					<a href="http://www.hydrahead.com/" target="_blank">HydraHead</a><br />
 					<a href="mailto:paypal@hydrahead.com">paypal@hydrahead.com</a><br />
 					P.O. Box 1706<br />
 					Vashon, WA 98070
 				</p>
-				<p>
-					<h3>Booking</h3>
-				</p>
+				
+				<h3>Booking</h3>
 				<p>
 					Tone Deaf Touring, LLC<br>
 					41 Blevins Knob Drive<br>
@@ -56,19 +51,17 @@
 			</div>
 
 			<div class="column-1 last">
-				<h2>Europe</h2>
+				<h2>Europe &amp; UK</h2>
+				<h3>Booking</h3>
 				<p>
-					<h3>Booking</h3>
+					Odyssey Booking
+					Sint-Hubertusstraat 3, <br />
+					2600 Berchem, Belgium
 				</p>
 				<p>
-					Conspiracy Booking<br>
-					Amsterdamstraat 22<br>
-					2000 Antwerpen<br>
-					Belgium
-				</p>
-				<p>
-					Phone: (++32) (0)3 225 19 29<br>
-					Fax: (++32) (0)3 295 39 49
+					Vincent Royers: <br />
+					phone: T +32 3 337 82 70 <br />
+					email: <a href="mailto:vincent@odysseybooking.com">vincent@odysseybooking.com</a>
 				</p>
 			</div>
 
