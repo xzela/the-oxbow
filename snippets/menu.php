@@ -1,4 +1,4 @@
-<div>
+<header>
 	<h1><a href="index.php" class="logo">OXBOW</a></h1>
 	<nav>
 		<ul>
@@ -10,4 +10,4 @@
 			<li><a href="contact.php">contact</a></li>
 			<li><a href="https://hydrahead.merchtable.com/" target="_">store</a></li>
 	</nav>
-</div>
+</header>

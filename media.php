@@ -38,7 +38,7 @@
 					</h3>
 				</div>
 
-				<div class="column-3">
+				<div class="column-3 youtube-widget">
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/u2sizPk3mW0?list=PL1HlsfhMi_bIKpLYoc9jct2qb_WXOxlSm" frameborder="0" allowfullscreen></iframe>
 				</div>
 

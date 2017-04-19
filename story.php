@@ -11,7 +11,7 @@
 			require_once('snippets/carousel.php');
 		?>
 
-		<div class="three-column">
+		<div class="three-column include-background">
 
 				<h2 class="story-header-2">The quiet kill off the country road, the time before the time when everything went wrong, and the last 16 hours of that great love affair - these are the seminal beginnings of oxbow.</h2>
 				<div class="portrait-wrapper">

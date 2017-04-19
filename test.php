@@ -1,11 +1,40 @@
 <html>
 <head>
 	<style>
-	@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+	@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700);
 
+	/* globals */
 	body { 
-		font-family: 'Open Sans', sans-serif;
-		color: #666;
+		background-image: url('/assets/bg.png');
+		background-color: #111;
+		color: #eee;
+		font-family: Arial;
+		font-size: 12px;
+	}
+	
+	a {
+		text-decoration: none;
+		color: #fc0505;
+	}
+	h2, h3 {
+		font-family: 'Roboto Condensed', sans-serif;
+		text-transform: uppercase;
+		margin: 0;
+	}
+
+	h2 {
+		color: #fc0505;
+		font-size: 18px;
+		margin-bottom: 10px;
+	}
+
+	h3 {
+		font-size: 14px;
+	}
+
+	header {
+		font-family: 'Roboto Condensed', sans-serif;
+		padding: 10px 0 0 0;
 	}
 
 	/* STRUCTURE */
@@ -19,17 +48,61 @@
 		height: 100px;
 		padding: 0 15px;
 	}
+	header ul {
+		list-style-type: none;
+		margin: 10px 0 0 0;
+		text-align: right;
+	}
+
+	header li {
+		display: inline-block;
+		text-transform: uppercase;
+		font-size: 13px;
+		font-weight: 700;
+		width: 100px;
+		height: 20px;
+		text-align: center;
+		background: rgba(34, 34, 34, 0.4);
+		margin: 0 5px 0 0;
+	}
 	#content {
 		width: 290px;
 		float: left;
 		padding: 5px 15px;
 	}
+	
+	#hero {
+		max-height: 450px;
+		padding: 0 15px;
+	}
+	
+	#hero .hero-image,
+	.media-gallery {
+		/*background: rgba(34, 34, 34, 0.4);*/
+		height: 440px;
+		width: 100%;
+		margin: 20px 0;
+		position: relative;
+		text-align: center;
+	}
+
+	#hero .hero-image .wrapper img {
+		height: auto; 
+		width: auto; 
+		max-width: 100%; 
+		max-height: 100%;
+	}
 
 	#middle {
-		width: 294px; /* Account for margins + border values */
-		float: left;
+		/* Account for margins + border values */
+		/*width: 294px; */
+		/*float: left;*/
 		padding: 5px 15px;
 		margin: 0px 5px 5px 5px;
+	}
+	
+	#middle.extend-right {
+		/*width: 100%;*/
 	}
 
 	#sidebar {
@@ -69,8 +142,12 @@
 			float: none;
 		}
 
-		header, footer {
+		header, footer, #hero {
 			padding: 1% 4%;
+			height: auto; 
+			width: auto; 
+			max-width: 640px; 
+			max-height: 360px;
 		}
 	}
 
@@ -92,14 +169,22 @@
 			width: auto;
 			float: none;
 		}
+		
+		header, footer, #hero {
+			padding: 1% 4%;
+			height: auto; 
+			width: auto; 
+			max-width: 500px; 
+			max-height: 280px;
+		}
 
 	}
 
 	/* for 480px or less */
 	@media screen and (max-width: 480px) {
 
-		header {
-			height: auto;
+		header, #hero {
+			max-height: 226px;
 		}
 		h1 {
 			font-size: 2em;
@@ -107,55 +192,217 @@
 		#sidebar {
 			display: none;
 		}
+		
+		header, footer, #hero {
+			padding: 1% 4%;
+			height: auto; 
+			width: auto; 
+			max-width: 480px; 
+			max-height: 226px;
+		}
 
 	}
 
 	#content {
-		background: #f8f8f8;
+		
 	}
 	#sidebar {
 		background: #f0efef;
 	}
-	header, #content, #middle, #sidebar {
+	header, #hero, #content, #middle, #sidebar {
 		margin-bottom: 5px;
 	}
 
-	#pagewrap, header, #content, #middle, #sidebar, footer {
-		border: solid 1px #ccc;
+	#hero, #content, #middle, #sidebar, footer {
+		background: rgba(34, 34, 34, 0.4);
 	}
 	</style>
+	<title>OXBOW</title>
+	<link rel="stylesheet" type="text/css" href="/assets/vender/normalize/normalize-6.0.0.css"/>
+	<!-- <link href="/assets/css/main.css" rel="stylesheet" type="text/css" /> -->
+	<link rel="stylesheet" href="/assets/vender/mediaelement/mediaelementplayer.css" />
+	<link rel="stylesheet" href="/assets/vender/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/assets/vender/slick/slick.css"/>
 </head>
 <body>
-<div id="pagewrap">
-
-	<header>
-		<h1>3 Column Responsive Layout</h1>
-	</header>
+	<div id="pagewrap">
+		<header>
+			<h1><a href="index.php" class="logo">OXBOW</a></h1>
+			<nav>
+				<ul>
+					<li><a href="/shows.php">shows</a></li>
+					<li><a href="/newsletter.php">newsletter</a></li>
+					<li><a href="/story.php">story</a></li>
+					<li><a href="/media.php">media</a></li>
+					<li><a href="/space.php">space</a></li>
+					<li><a href="/contact.php">contact</a></li>
+					<li><a href="https://hydrahead.merchtable.com/" target="_">store</a></li>
+			</nav>
+		</header>
 		
-	<section id="content">
-		<h2>1st Content Area</h2>
-		<p>This page demonstrates a 3 column responsive layout, complete with responsive images and jquery slideshow.</p>
-	</section>
-	
-	<section id="middle">
-		<h2>2nd Content Area</h2>
-		<p>At full width all three columns will be displayed side by side. As the page is resized the third column will collapse under the first and second. At the smallest screen size all three columns will be stacked on top of one another.</p>
-		<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</p>
-	</section>
+		<section id="hero">
+			<div class="hero-image">
+				<div class="wrapper">
+					<img src="/assets/img/slides/slides03/1.jpg" alt="" />
+				</div>
+				<div class="wrapper">
+					<img src="/assets/img/slides/slides03/2.jpg" alt="" />
+				</div>
+				<div class="wrapper">
+					<img src="/assets/img/slides/slides03/3.jpg" alt="" />
+				</div>
+				<div class="wrapper">
+					<img src="/assets/img/slides/slides03/4.jpg" alt="" />
+				</div>
+				<div class="wrapper">
+					<img src="/assets/img/slides/slides03/5.jpg" alt="" />
+				</div>
+				<div class="wrapper">
+					<img src="/assets/img/slides/slides03/6.jpg" alt="" />
+				</div>
+				<div class="wrapper">
+					<img src="/assets/img/slides/slides03/7.jpg" alt="" />
+				</div>
+				<div class="wrapper">
+					<img src="/assets/img/slides/slides03/8.jpg" alt="" />
+				</div>
+			</div>
+		</section>
 
-	<aside id="sidebar">
-		<h2>3rd Content Area</h2>
-		<p>Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-		<p>Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
-	</aside>
+		<section id="content">
+			<h3>Newsletter Archive</h3>
+			<p>
+				<a href="http://theoxbow.com/newsletters/OXBOW-54.pdf" target="_blank">05/23/07 Newsletter No 54: YOU. HELP. PENIS. ME.</a></br><br>
+				<a href="http://theoxbow.com/newsletters/OXBOW-50.pdf" target="_blank">08/19/05 Newsletter No 50: MY FIRST BROKEN PROMISE, MY LAST REGRET</a>
+				<br></br>
+				<a href="http://theoxbow.com/newsletters/OXBOW-49.pdf" target="_blank">04/14/05 Newsletter No 49: THE ICEPICK IS AN UNFORGIVING MISTRESS</a>
+				<br></br>
+				<a href="http://theoxbow.com/newsletters/OXBOW-48.pdf" target="_blank">02/08/05 Newsletter No 48: THE ASPHALT AGENDA</a>
+				<br></br>
+				<a href="http://theoxbow.com/newsletters/OXBOW-47.pdf" target="_blank">01/12/05 Newsletter No 47: I SHALL IMPERSONATE A MAN</a>
+				<br></br>
+				<a href="http://theoxbow.com/newsletters/OXBOW-46.pdf" target="_blank">12/06/04 Newsletter No 46: DESTROY IT ALL AT ONCE</a>
+				<br></br>
+				<a href="http://theoxbow.com/newsletters/OXBOW-45.pdf" target="_blank">11/12/04 Newsletter No 45: REGRET, RELIEF, DEBASEMENT. REPEAT.</a>
+				<br></br>
+				<a href="http://theoxbow.com/newsletters/OXBOW-44.pdf" target="_blank">10/02/04 Newsletter No 44: FILE UNDER: I HAVE BEEN KNIFED</a>
+				<br></br>
+				<a href="" class="more">more...</a>
+				<div class="aux">
+					<a href="http://theoxbow.com/newsletters/OXBOW-43.pdf" target="_blank">09/10/04 Newsletter No 43: WITH THIS COCK I THEE WED</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-42.pdf" target="_blank">08/14/04 Newsletter No 42: NO ONE ESCAPES FROM OUR KETTLE ALIVE</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-41.pdf" target="_blank">07/07/04 Newsletter No 41: IF FOUND THIS SIDE UP, CALL 911</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-40.pdf" target="_blank">06/12/04 Newsletter No 40: MY FIRST KNIFE</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-39.pdf" target="_blank">05/10/04 Newsletter No 39: PLAN B: GET HIGH AND STAY HIGH; PLAN C: LOTS AND LOTS OF BAD THINGS</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-38.pdf" target="_blank">04/05/04 Newsletter No 38: WE WILL MAKE A FRIEND OF YOUR ASS</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-37.pdf" target="_blank">03/08/04 Newsletter No 37: LET'S GO DO SOME CRIME</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-36.pdf" target="_blank">02/10/04 Newsletter No 36: MANLY? YES! BUT I LIKE IT TOO</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-35.pdf" target="_blank">01/21/04 Newsletter No 35: THE UNIVERSALLY CONDEMNED CURRENCY OF COCK</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-34.pdf" target="_blank">12/04/03 Newsletter No 34: OXBOW VS. THE ANGRY, TREMBLING TRANSSEXUAL</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-33.pdf" target="_blank">11/03/03 Newsletter No 33: PORNO, TRUCKER TRAVEL, AND THE MISBEGOTTEN MIDWEST TOUR</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-32.pdf" target="_blank">10/05/03 Newsletter No 32: THE COLLAPSE OF THE VALUE OF HUMAN LIFE IN PRACTICE</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-31.pdf" target="_blank">09/10/03 Newsletter No 31: THE NEGROTIZING EFFECT OF THE JEWIFICATION OF AMERICA</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-30.pdf" target="_blank">08/24/03 Newsletter No 30: WE WERE FOUND, BUT NOW AM LOST</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-29.pdf" target="_blank">07/12/03 Newsletter No 29: THE YEAR OF THE FOX IN THE HEN HOUSE</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-28.pdf" target="_blank">06/08/03 Newsletter No 28: DISAPPOINTMENT. AND THEN: RELIEF.</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-27.pdf" target="_blank">05/18/03 Newsletter No 27: DEATH OR SERIOUS INJURY CAN OCCUR.</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-26.pdf" target="_blank">04/10/03 Newsletter No 26: TRAGIC. BUT UNDERSTANDABLE.</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-25.pdf" target="_blank">03/05/03 Newsletter No 25: A BRICK OF RED, A JUG OF GAS AND THOU</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-24.pdf" target="_blank">02/08/03 Newsletter No 24: STRONG ENOUGH FOR A MAN, BUT MADE FOR A WOMAN</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-23.pdf" target="_blank">01/01/03 Newsletter No 23: IN LIKE A KILLER, OUT LIKE A LIGHT</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-22.pdf" target="_blank">12/08/02 Newsletter No 22: IS "KARL DEMATA" A MOTHERFUCKER?</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-21.pdf" target="_blank">11/03/02 Newsletter No 21: WALK OVER HERE AND YOU'LL BE LIMPING BACK</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-20.pdf" target="_blank">10/16/02 Newsletter No 20: FINAL SCORE: GOD=EVERYTHING, YOU=NOTHING</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-19.pdf" target="_blank">09/06/02 Newsletter No 19: WHILE MY REVOLVER GENTLY WEEPS</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-18.pdf" target="_blank">08/01/02 Newsletter No 18: KEEPING YOU IS NO GAIN, LOSING YOU IS NO LOSS</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-17.pdf" target="_blank">07/07/02 Newsletter No 17: MOM? I JUST RAPED A MAN</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-16.pdf" target="_blank">06/18/02 Newsletter No 16: SPEAKING OF DEAD MAN...</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-15.pdf" target="_blank">05/07/02 Newsletter No 15: OXBOW A LA FLAMBE!!!</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-14.pdf" target="_blank">04/09/02 Newsletter No 14: THE EROTIC HISTORY OF STRANGULATION</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-13.pdf" target="_blank">03/08/02 Newsletter No 13: FEAR AND TREMBLING AND THE SICKNESS UNTO DEATH</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-12.pdf" target="_blank">02/07/02 Newsletter No 12: CUPID'S COCK!</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-11.pdf" target="_blank">01/17/02 Newsletter No 11: OUR NEW FIGHTING TECHNIQUE IS UNSTOPPABLE!</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-10.pdf" target="_blank">12/09/01 Newsletter No 10: A SEX CRIME AGAINST HUMANITY</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-9.pdf" target="_blank">10/30/01 Newsletter No 9: BY DAWN WE WILL BE DEAD MEN</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-8.pdf" target="_blank">09/20/01 Newsletter No 8: IT'S AN UNMARRIED BEARDED MAN BETWEEN THE AGES OF 20 AND 40!</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-7.pdf" target="_blank">08/13/01 Newsletter No 7: JESUS FELL OFF OF THE FUCKING APPLE CART</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-6.pdf" target="_blank">07/19/01 Newsletter No 6: CAREER DESTROYING MANUEVER #319</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-5.pdf" target="_blank">06/05/01 Newsletter No 5: OUR FAST DWINDLING FAN BASE</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-4.pdf" target="_blank">05/08/01 Newsletter No 4: BRING ME THE HEAD OF SAUSAGE GARCIA!</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-3.pdf" target="_blank">04/23/01 Newsletter No 3: OXBOW GEGEN ANAL CUNT</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-2.pdf" target="_blank">02/09/01 Newsletter No 2: PCP-SMOKING, CONK-SPORTING, SHOTGUN SHOOTING</a>
+					<br></br>
+					<a href="http://theoxbow.com/newsletters/OXBOW-1.pdf" target="_blank">01/18/01 Newsletter No 1: OXBOW IN POLAND! WHO WOULD'VE THOUGHT OF THAT?</a>
+					<br></br>
+				</div>
+			</p>
+		</section>
+		
+		<section id="middle" class="extend-right">
+			<img src="http://theoxbow.com/newsletter.jpg" alt="" />
+			<p>
+				<h2>Newsletter: Read, Burn, Discard</h2>
+			</p>
+			<p>
+				The archived Newsletters to the left are for OXBOW compleatists only. The opinions expressed therein do not represent what constitutes OXBOW thought in total. They DO represent the sad ramblings of vainglorious men at war with conflicting urges and beliefs. Anything you say in response may be used herein (against you, as the case may be) with no further financial remuneration. OXBOW will not respond or take responsibility for anything said here in subsequent interviews or press coverages, so do not even ask.<br></br><br></br>To receive a copy of the latest OXBOW newsletter, send an e-mail to: <a href="mailto:oxbowband@gmail.com" target="_blank">oxbowband@gmail.com</a>
+			</p>
+		</section>
+		
+		<footer>
+			<h4>Footer</h4>
+			<p>Footer text</p>
+		</footer>
 	
-	<footer>
-		<h4>Footer</h4>
-		<p>Footer text</p>
-	</footer>
 
-</div>
+	</div> <!-- /container -->
+	<div class="footer">
+
+	</div>
+	<script src="/assets/vender/jquery/jquery-1.9.1.js"></script>
+	<script src="/assets/vender/mediaelement/mediaelement-and-player.min.js"></script>
+	<script src="/assets/vender/fancybox/jquery.fancybox.pack.js"></script>
+	<script src="/assets/vender/slick/slick.min.js"></script>
+	<script src="assets/js/js.js"></script>
 </body>
 </html>
-	
