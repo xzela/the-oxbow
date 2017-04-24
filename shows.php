@@ -24,27 +24,27 @@
 					Available, at this point, only at live shows.
 				</p>
 				<p>
-					<a href="http://theoxbow.com/OXBOW_2003_2nd_European_Tour_Diary.pdf" target="_blank">2003 Second European Tour Diary</a>
+					<a href="/assets/media/diaries/OXBOW_2003_2nd_European_Tour_Diary.pdf" target="_blank">2003 Second European Tour Diary</a>
 					<br></br>
-					<a href="http://theoxbow.com/OXBOW_2003_Tour_Diary.pdf" target="_blank">2003 European Tour Diary</a>
+					<a href="/assets/media/diaries/OXBOW_2003_Tour_Diary.pdf" target="_blank">2003 European Tour Diary</a>
 					<br></br>
-					<a href="http://theoxbow.com/OXBOW_2002_Part2_Tour_Diary.pdf" target="_blank">2002 European Tour Diary Part Two</a>
+					<a href="/assets/media/diaries/OXBOW_2002_Part2_Tour_Diary.pdf" target="_blank">2002 European Tour Diary Part Two</a>
 					<br></br>
-					<a href="http://theoxbow.com/OXBOW_2002_Part1_Tour_Diary.pdf" target="_blank">2002 European Tour Diary Part One</a>
+					<a href="/assets/media/diaries/OXBOW_2002_Part1_Tour_Diary.pdf" target="_blank">2002 European Tour Diary Part One</a>
 					<br></br>
-					<a href="http://theoxbow.com/OXBOW_2000_Tour_Diary.pdf" target="_blank">2000 US Tour Diary</a>
+					<a href="/assets/media/diaries/OXBOW_2000_Tour_Diary.pdf" target="_blank">2000 US Tour Diary</a>
 					<br></br>
-					<a href="http://theoxbow.com/OXBOW_1999_Tour_Diary_Eugene.pdf" target="_blank">1999 Japan Tour Diary (Eugene)</a>
+					<a href="/assets/media/diaries/OXBOW_1999_Tour_Diary_Eugene.pdf" target="_blank">1999 Japan Tour Diary (Eugene)</a>
 					<br></br>
-					<a href="http://theoxbow.com/OXBOW_1999_Tour_Diary_Niko.pdf" target="_blank">1999 Japan Tour Diary (Niko)</a>
+					<a href="/assets/media/diaries/OXBOW_1999_Tour_Diary_Niko.pdf" target="_blank">1999 Japan Tour Diary (Niko)</a>
 					<br></br>
-					<a href="http://theoxbow.com/OXBOW_1998_Tour_Diary.pdf" target="_blank">1998 European Tour Diary</a>
+					<a href="/assets/media/diaries/OXBOW_1998_Tour_Diary.pdf" target="_blank">1998 European Tour Diary</a>
 					<br></br>
-					<a href="http://theoxbow.com/OXBOW_1996_Tour_Diary.pdf" target="_blank">1996 European Tour Diary</a>
+					<a href="/assets/media/diaries/OXBOW_1996_Tour_Diary.pdf" target="_blank">1996 European Tour Diary</a>
 					<br></br>
-					<a href="http://theoxbow.com/OXBOW_1995_Tour_Diary_Eugene.pdf" target="_blank">1995 European Tour Diary (Eugene)</a>
+					<a href="/assets/media/diaries/OXBOW_1995_Tour_Diary_Eugene.pdf" target="_blank">1995 European Tour Diary (Eugene)</a>
 					<br></br>
-					<a href="http://theoxbow.com/OXBOW_1995_Tour_Diary_Niko.pdf" target="_blank">1995 European Tour Diary (Niko)</a>
+					<a href="/assets/media/diaries/OXBOW_1995_Tour_Diary_Niko.pdf" target="_blank">1995 European Tour Diary (Niko)</a>
 				</p>
 			</div>
 
